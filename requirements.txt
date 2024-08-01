@@ -2,3 +2,6 @@ streamlit
 joblib
 matplotlib
 streamlit-aggrid
+scikit-learn
+numpy
+pandas
